@@ -1,5 +1,5 @@
 ## Form-Validation-2
-- Taking the data of Username,password,confirm password for register and for login Username,password of the person.
+- Taking the data of Username,password,confirm password for register and rendring the data for login Username,password of the person.
 - A simple, light and responsive UI.
 - Best code practice used.
 - A complete project Made on React using Props,Fat arrow function,API.
